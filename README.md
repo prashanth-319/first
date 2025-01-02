@@ -1,2 +1,2 @@
-# first
-This is my first time to Github
+# first repository
+This is my first time on Github
